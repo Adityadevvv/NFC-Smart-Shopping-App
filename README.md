@@ -1,17 +1,52 @@
-# nfc_app
+# 🛒 NFC Smart Shopping App
 
-A new Flutter project.
+An Android-based smart shopping application that uses Near Field Communication (NFC) technology to simplify the shopping experience. Users can scan NFC-enabled product tags, add items to a digital cart, and complete secure payments directly through the app.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 User Login & Signup Authentication
+- 📱 NFC Product Scanning
+- 🛒 Digital Cart Management
+- 💳 Secure Payment System with OTP Verification
+- ☁️ Firebase Realtime Database Integration
+- 📦 Real-time Inventory Management
+- 🧾 Digital Bill & Receipt Generation
+- 👨‍💼 Admin Panel for Product Management
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter  
+- Firebase  
+- NFC  
+- Android Studio  
+- Java / Kotlin
+- XML
+- Razorpay / UPI APIs  
+
+---
+
+## 📲 How It Works
+
+1. Login or create an account  
+2. Scan products using NFC  
+3. Add items to cart  
+4. Complete payment securely  
+5. Download digital bill  
+
+---
+
+---
+
+## 📚 Academic Project
+
+Mini Project submitted to  
+**APJ Abdul Kalam Technological University**  
+Department of Computer Science & Engineering
+
+> Developed as a college mini project.
+
+---
