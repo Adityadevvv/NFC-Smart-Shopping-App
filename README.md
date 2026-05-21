@@ -39,7 +39,6 @@ An Android-based smart shopping application that uses Near Field Communication (
 
 ---
 
----
 
 ## 📚 Academic Project
 
@@ -48,5 +47,3 @@ Mini Project submitted to
 Department of Computer Science & Engineering
 
 > Developed as a college mini project.
-
----
