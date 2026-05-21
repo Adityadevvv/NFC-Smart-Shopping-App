@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "834989368009",
+    "project_id": "nsc-smart-cart",
+    "storage_bucket": "nsc-smart-cart.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834989368009:android:3ff3e04bd423bf01aba318",
+        "android_client_info": {
+          "package_name": "com.example.nfc_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmGTVkfQ5GEhLyI9r_nhUitT-RWrsZS74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
